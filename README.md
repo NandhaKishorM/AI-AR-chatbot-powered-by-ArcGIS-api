@@ -10,6 +10,9 @@ The app can help you to find the best services within a close location and minim
 We built it using ArcGIS API, AWS EC2, Flask RESTful API, AWS dynamodb, AWS Lambda, AWS Sumerian, AWS Lex
 ## closest route allocation problem - example
 ![alt text](https://github.com/kishorkuttan/AI-AR-chatbot-powered-by-ArcGIS-api/blob/master/screeshots/route.jpeg)
+## AWS Lex
+![alt text](https://github.com/kishorkuttan/AI-AR-chatbot-powered-by-ArcGIS-api/blob/master/screeshots/image1.jpeg)
+![alt text](![alt text](https://github.com/kishorkuttan/AI-AR-chatbot-powered-by-ArcGIS-api/blob/master/screeshots/image2.jpg)
 
 # Challenges we ran into
 Integrating the AR with an audio chatbot is a tough job and also integrating various processes of ArcGIS API is also a harder job.
