@@ -9,7 +9,7 @@ The App apk can be find on app directory
 # How we built it
 We built it using ArcGIS API, AWS EC2, Flask RESTful API, AWS dynamodb, AWS Lambda, AWS Sumerian, AWS Lex
 ## AWS Lambda function and app 
-The function and app can be found on the lambda_function directory and app directory respectively. 
+The function and app can be found on the lambda_function directory and apk directory respectively. 
 ## closest route allocation problem - example
 ![alt text](https://github.com/kishorkuttan/AI-AR-chatbot-powered-by-ArcGIS-api/blob/master/screeshots/route.jpeg)
 ## AWS Lex
