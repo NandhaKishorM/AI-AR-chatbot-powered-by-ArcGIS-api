@@ -11,8 +11,8 @@ We built it using ArcGIS API, AWS EC2, Flask RESTful API, AWS dynamodb, AWS Lamb
 ## closest route allocation problem - example
 ![alt text](https://github.com/kishorkuttan/AI-AR-chatbot-powered-by-ArcGIS-api/blob/master/screeshots/route.jpeg)
 ## AWS Lex
-![alt text](https://github.com/kishorkuttan/AI-AR-chatbot-powered-by-ArcGIS-api/blob/master/screeshots/image1.jpeg)
-![alt text](![alt text](https://github.com/kishorkuttan/AI-AR-chatbot-powered-by-ArcGIS-api/blob/master/screeshots/image2.jpg)
+![alt text](https://github.com/kishorkuttan/AI-AR-chatbot-powered-by-ArcGIS-api/blob/master/screeshots/image1.png)
+![alt text](https://github.com/kishorkuttan/AI-AR-chatbot-powered-by-ArcGIS-api/blob/master/screeshots/image2.png)
 
 # Challenges we ran into
 Integrating the AR with an audio chatbot is a tough job and also integrating various processes of ArcGIS API is also a harder job.
