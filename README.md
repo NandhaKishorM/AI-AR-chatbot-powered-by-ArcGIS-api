@@ -14,8 +14,8 @@ The function and app can be found on the lambda_function directory and app direc
 ![alt text](https://github.com/kishorkuttan/AI-AR-chatbot-powered-by-ArcGIS-api/blob/master/screeshots/route.jpeg)
 ## AWS sumerian
 Easily create and run browser-based 3D, augmented reality (AR), and virtual reality (VR) applications.
-!alt text](https://github.com/kishorkuttan/AI-AR-chatbot-powered-by-ArcGIS-api/blob/master/screeshots/sumerian1.png)
-!alt text](https://github.com/kishorkuttan/AI-AR-chatbot-powered-by-ArcGIS-api/blob/master/screeshots/sumerian.png)
+![alt text](https://github.com/kishorkuttan/AI-AR-chatbot-powered-by-ArcGIS-api/blob/master/screeshots/sumerian1.png)
+![alt text](https://github.com/kishorkuttan/AI-AR-chatbot-powered-by-ArcGIS-api/blob/master/screeshots/sumerian.png)
 ## AWS Lex
 ![alt text](https://github.com/kishorkuttan/AI-AR-chatbot-powered-by-ArcGIS-api/blob/master/screeshots/image1.png)
 ![alt text](https://github.com/kishorkuttan/AI-AR-chatbot-powered-by-ArcGIS-api/blob/master/screeshots/image2.png)
