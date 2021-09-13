@@ -21,7 +21,7 @@ Easily create and run browser-based 3D, augmented reality (AR), and virtual real
 ![alt text](https://github.com/kishorkuttan/AI-AR-chatbot-powered-by-ArcGIS-api/blob/master/screeshots/image2.png)
 
 # Challenges we ran into
-Integrating the AR with an audio chatbot is a tough job and also integrating various processes of ArcGIS API is also a harder job.
+Integrating the AR with an audio chatbot is a tough job and also integrating various processes of ArcGIS API is also got a little harder than we expected.
 
 # Accomplishments that we're proud of
 Built a useful android application that can handle multiple services
