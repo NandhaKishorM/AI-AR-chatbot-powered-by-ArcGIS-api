@@ -5,11 +5,11 @@ The inspiration comes after traveling to one of the unknown towns and got some s
 
 # What it does
 The app can help you to find the best services within a close location and minimal travel distance considering real-time traffic. identify the travel cost by getting the real-time travel time between your service and desired places, and also helps to start a new business considering its weights in that area.
-The App apk can be find on app directory
+The App apk can be find on apk directory
 # How we built it
 We built it using ArcGIS API, AWS EC2, Flask RESTful API, AWS dynamodb, AWS Lambda, AWS Sumerian, AWS Lex
 ## AWS Lambda function and app 
-The function and app can be found on the lambda_function directory and apk directory respectively. 
+The function and app can be found on the lambda_function directory and app directory respectively. 
 ## closest route allocation problem - example
 ![alt text](https://github.com/kishorkuttan/AI-AR-chatbot-powered-by-ArcGIS-api/blob/master/screeshots/route.jpeg)
 ## AWS Lex
